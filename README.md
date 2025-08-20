@@ -1,4 +1,4 @@
-# Hi there, I'm Samanaleee! 👋
+# Hi there, I'm Pawani Sakunika! 👋
 
 🎓 **I'm an HNDIT undergraguate student passionate about tech and creativity**
 
