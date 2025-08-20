@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Samanaleee! 👋
+
+🎓 **I'm an HNDIT undergraguate student passionate about tech and creativity**
+
+---
+
+## 🚀 About Me
+
+- 💻 I enjoy building with **HTML** and **CSS** — turning ideas into interactive web experiences!
+- 🌱 Always learning and exploring new technologies to expand my skill set.
+
+---
+
+## 🛠️ Top Skills
+
+- **HTML**
+- **CSS**
+
+---
+
+## 🌟 Projects
+
+- **Gateway Adventure Base Camp:**  
+  A dynamic platform designed to inspire and organize outdoor adventures.
+
+- **By Bus: Online Bus Booking System:**  
+  A user-friendly web application to make booking bus journeys easier and more efficient.
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawani-sakunika-744452324)
+
+---
 
 <!--
-**Samanaleee/Samanaleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+✨ Fun fact or personal motto can go here! (Add one if you want!)
 -->
+
